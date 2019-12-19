@@ -1,2 +1,2 @@
-# Swift-Sample-BackgroundTask
-Sample code of background task
+# Swift-Sample-BackgroundFetch
+Sample code of background fetch
